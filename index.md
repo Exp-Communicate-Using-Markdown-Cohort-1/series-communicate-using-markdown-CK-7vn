@@ -9,3 +9,6 @@ def main():
 if __name__ == "__main__":
   main()
 ```
+- [ ] This is a checkbox?
+- [ ] This is also a checkbox?
+- [ ] This is pretty cool. 
